@@ -4,7 +4,7 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 200px;
 }
 
 .card {
@@ -22,5 +22,9 @@ body {
 .border-blue {
     border: 1px dotted #d8cefe;
     border-bottom: 8px solid #d8cefe;
+}
+
+.card-desc {
+    padding: 10px;
 }
     
